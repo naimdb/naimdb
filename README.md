@@ -9,6 +9,6 @@
 
 - 🤝 I’m looking for help to **get better at coding**
 
-- 📄 Know about my experiences [3 years as an entrepreneur and 5 years as an office manager / administrative and financial manager](3 years as an entrepreneur and 5 years as an office manager / administrative and financial manager)
+- 📄 Know about my experiences before : 3 years as an entrepreneur and 5 years as an office manager / administrative and financial manager
 
 - ⚡ Fun fact **I built a company with Japanese partners as a shareholder.**

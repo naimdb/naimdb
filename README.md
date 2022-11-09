@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naïm</h1>
 
-[![nadel-be's 42 stats](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/stats?cursusId=9&coalitionId=168)](https://github.com/JaeSeoKim/badge42)
-[![nadel-be's 42 stats](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![nadel-be's 42 stats](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
 
 - 🔭 I’m currently working in **42 Lausanne**
 

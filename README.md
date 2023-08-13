@@ -1,22 +1,14 @@
-<h1 align="center">Hi 👋, I'm Naïm</h1>
-
-[![nadel-be's 42 stats](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
-
-- 🔭 I’m currently working in **42 Lausanne**
-
-- 🌱 I’m currently learning **C / C++**
-
-- 🤝 I’m looking for help to **get better at coding**
-
-- 📄 Know about my experiences before : 3 years as an entrepreneur and 5 years as an office manager / administrative and financial manager
-
-- ⚡ Fun fact **I built a company with Japanese partners as a shareholder.**
+<h1 align="center">Hi 👋, my name is Naïm</h1>
 
 ## 42's cursus
 
+<p align=center>
+<img  src="https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/stats?cursusId=21&coalitionId=193"  alt="nadel-be's 42 stats"  />
+</p>
+
 ### COMMON CORE
 | Rank | Project  | Description                | Status     |
-| :-------- | :------- | :------------------------- | :--------  |
+| :--------: | :-------: | :------------------------- | :--------  |
 | 05 | `Inception` |  | ![Inception Score](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/project/3124069) |
 | 05 | `webserv` |  | ![webserv Score](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/project/3124066) |
 | 05 | `CPP Module 06` |  | ![CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl9mxh18v00250gil6wd4ihss/project/3150537) |
